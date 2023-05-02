@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "controller.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "model.h": "c"
+    }
+}
